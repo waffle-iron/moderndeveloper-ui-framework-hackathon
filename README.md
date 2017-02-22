@@ -4,7 +4,8 @@
 
 ### Team
 
-+ Brent Guffens
 + Jonathan Chan
 + Carlos Coves Prieto
 + Stefan Frede
++ Chris Watland
+
