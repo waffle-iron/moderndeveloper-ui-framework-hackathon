@@ -4,7 +4,12 @@
 
 ### Team
 
-+ Brent Guffens
 + Jonathan Chan
 + Carlos Coves Prieto
 + Stefan Frede
++ Chris Watland
+
+### Website
+
+https://stefanfrede.github.io/moderndeveloper-ui-framework-hackathon/
+
